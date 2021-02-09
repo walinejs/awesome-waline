@@ -13,6 +13,7 @@ List of themes that support Waline by default.
 
 - Hexo themes:
   - 🦋 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+  - 🍬 [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth)
 
 
 ## Tutorial
