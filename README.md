@@ -20,3 +20,5 @@ List of themes that support Waline by default.
 
 - [Waline 评论系统-部署日志](https://blog.ccknbc.cc/posts/waline-commens-system-deployment-logs/)
 - [从Disqus迁移到Waline](https://candinya.com/posts/migrate-from-disqus-to-waline/)
+- [静态博客如何高性能插入评论
+](https://imnerd.org/hugo-ssr-comment.html)
