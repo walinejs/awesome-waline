@@ -19,6 +19,7 @@ List of themes that support Waline by default.
 
 ## Tutorial
 
+- [Hexo Next 主题使用 Waline 评论系统](https://www.techgrow.cn/posts/ae18fb85.html)
 - [Waline 评论系统-部署日志](https://blog.ccknbc.cc/posts/waline-commens-system-deployment-logs/)
 - [从Disqus迁移到Waline](https://candinya.com/posts/migrate-from-disqus-to-waline/)
 - [静态博客如何高性能插入评论
