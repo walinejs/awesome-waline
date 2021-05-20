@@ -6,6 +6,7 @@
 
 - [@waline/hexo-next](https://npmjs.com/@waline/hexo-next): Waline comment system for NexT.
 
+- [@mr-hope/vuepress-plugin-comment](https://vuepress-theme-hope.github.io/comment/): Comment system for VuePress.
 
 ## Theme
 
@@ -16,6 +17,8 @@ List of themes that support Waline by default.
   - 🍬 [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth)
   - 🍭 [MengD](https://github.com/lete114/hexo-theme-MengD)
 
+- VuePress themes:
+  - [hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
 
 ## Tutorial
 
