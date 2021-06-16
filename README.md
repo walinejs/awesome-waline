@@ -20,6 +20,9 @@ List of themes that support Waline by default.
 - VuePress themes:
   - [hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
 
+- Hugo themes:
+  - [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) 
+
 ## Tutorial
 
 - [酷安/美团外卖/QQ/微信/微博/哔哩哔哩等 App 表情包做的 Waline 自定义表情 Map](https://spoience.com/articles/apps-emoji.html)
