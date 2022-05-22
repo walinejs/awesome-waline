@@ -1,8 +1,8 @@
 # Awesome Waline
 
-[![](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
 
-## Plugin
+## Plugins
 
 - [@waline/hexo-next](https://npmjs.com/@waline/hexo-next): Waline comment system for NexT.
 - [docsify-waline](https://github.com/cxcn/docsify-waline): A simple comment plugin for docsify.
@@ -15,26 +15,28 @@
 
 List of themes that support Waline by default.
 
-- Hexo themes:
-  - 🦋 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
-  - 🍬 [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth)
-  - 🍭 [MengD](https://github.com/lete114/hexo-theme-MengD)
-  - ⛲ [Fluid](https://github.com/fluid-dev/hexo-theme-fluid)
-  - 🚚 [Kaze](https://github.com/theme-kaze/hexo-theme-kaze)
-  - ✌🏻 [Volantis](https://github.com/volantis-x/hexo-theme-volantis)
-  - 🗒 [Blank](https://github.com/dewjohn/hexo-theme-blank)
-  - 🐴 [Stun](https://github.com/liuyib/hexo-theme-stun)
-  - 🤖 [Yun](https://github.com/YunYouJun/hexo-theme-yun)
-  - 🦄 [Unicorn](https://github.com/Uzizkp/hexo-theme-unicorn)
-  
+### Hexo Themes
 
-- VuePress themes:
-  - [hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
-  - [stella](https://github.com/SHUAXINDIARY/vuepress-theme-stella)
+- 🦋 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+- 🍬 [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth)
+- 🍭 [MengD](https://github.com/lete114/hexo-theme-MengD)
+- ⛲ [Fluid](https://github.com/fluid-dev/hexo-theme-fluid)
+- 🚚 [Kaze](https://github.com/theme-kaze/hexo-theme-kaze)
+- ✌🏻 [Volantis](https://github.com/volantis-x/hexo-theme-volantis)
+- 🗒 [Blank](https://github.com/dewjohn/hexo-theme-blank)
+- 🐴 [Stun](https://github.com/liuyib/hexo-theme-stun)
+- 🤖 [Yun](https://github.com/YunYouJun/hexo-theme-yun)
+- 🦄 [Unicorn](https://github.com/Uzizkp/hexo-theme-unicorn)
 
-- Hugo themes:
-  - [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) 
-  - [DoIt](https://github.com/HEIGE-PCloud/DoIt)
+### VuePress Themes
+
+- [hope](https://github.com/vuepress-theme-hope/vuepress-theme-hope)
+- [stella](https://github.com/SHUAXINDIARY/vuepress-theme-stella)
+
+### Hugo Themes
+
+- [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
+- [DoIt](https://github.com/HEIGE-PCloud/DoIt)
 
 ## Tutorial
 
@@ -42,6 +44,5 @@ List of themes that support Waline by default.
 - [酷安/美团外卖/QQ/微信/微博/哔哩哔哩等 App 表情包做的 Waline 自定义表情 Map](https://spoience.com/articles/apps-emoji.html)
 - [Hexo Next 主题使用 Waline 评论系统](https://www.techgrow.cn/posts/ae18fb85.html)
 - [Waline 评论系统-部署日志](https://blog.ccknbc.cc/posts/waline-commens-system-deployment-logs/)
-- [从Disqus迁移到Waline](https://candinya.com/posts/migrate-from-disqus-to-waline/)
-- [静态博客如何高性能插入评论
-](https://imnerd.org/hugo-ssr-comment.html)
+- [从 Disqus 迁移到 Waline](https://candinya.com/posts/migrate-from-disqus-to-waline/)
+- [静态博客如何高性能插入评论](https://imnerd.org/hugo-ssr-comment.html)
