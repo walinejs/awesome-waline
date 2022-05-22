@@ -6,7 +6,8 @@
 
 - [@waline/hexo-next](https://npmjs.com/@waline/hexo-next): Waline comment system for NexT.
 - [docsify-waline](https://github.com/cxcn/docsify-waline): A simple comment plugin for docsify.
-- [@mr-hope/vuepress-plugin-comment](https://vuepress-theme-hope.github.io/comment/): Comment system for VuePress.
+- [vuepress-plugin-comment2](https://vuepress-theme-hope.github.io/v2/comment/): Comment system for VuePress2.
+- [@mr-hope/vuepress-plugin-comment](https://vuepress-theme-hope.github.io/v1/comment/): Comment system for VuePress1.
 - [vuepress-plugin-waline](https://github.com/xinlei3166/vuepress-plugin-waline): Waline comment system for VuePress2.
 - [vuepress-plugin-comment-plus](https://github.com/SivanLaai/vuepress-plugin-comment-plus): Comment system plugin for VuePress.
 
