@@ -27,6 +27,7 @@ List of themes that support Waline by default.
 - 🐴 [Stun](https://github.com/liuyib/hexo-theme-stun)
 - 🤖 [Yun](https://github.com/YunYouJun/hexo-theme-yun)
 - 🦄 [Unicorn](https://github.com/Uzizkp/hexo-theme-unicorn)
+- 🌈 [Freemind-Plus](https://github.com/myyerrol/hexo-theme-freemind-plus)
 
 ### VuePress Themes
 
