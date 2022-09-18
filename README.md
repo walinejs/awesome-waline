@@ -10,6 +10,8 @@
 - [@mr-hope/vuepress-plugin-comment](https://vuepress-theme-hope.github.io/v1/comment/): Comment system for VuePress1.
 - [vuepress-plugin-waline](https://github.com/xinlei3166/vuepress-plugin-waline): Waline comment system for VuePress2.
 - [vuepress-plugin-comment-plus](https://github.com/SivanLaai/vuepress-plugin-comment-plus): Comment system plugin for VuePress.
+- [waline-services](https://github.com/loclink/waline-service): A easy way to deploy Waline to your server
+- [waline-cli](https://github.com/slgluo/waline-cli): CLI for Waline server deployment
 
 ## Theme
 
