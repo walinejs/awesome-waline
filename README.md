@@ -10,12 +10,7 @@
 - [@mr-hope/vuepress-plugin-comment](https://vuepress-theme-hope.github.io/v1/comment/): Comment system for VuePress1.
 - [vuepress-plugin-waline](https://github.com/xinlei3166/vuepress-plugin-waline): Waline comment system for VuePress2.
 - [vuepress-plugin-comment-plus](https://github.com/SivanLaai/vuepress-plugin-comment-plus): Comment system plugin for VuePress.
-- [waline-services](https://github.com/loclink/waline-service): A easy way to deploy Waline to your server.
-- [waline-cli](https://github.com/slgluo/waline-cli): CLI for Waline server deployment.
-- [waline-async-mail](https://github.com/soxft/waline-async-mail): async mail notification service for Waline.
-- [LWAR](https://github.com/kawashiro-ryofu/LWAR): A robot which can audit comment by history commentors for Waline.
 - [WalineJson](https://github.com/zmoyi/WalineJson): Typecho plugin for Waline.
-- [isso_to_waline](https://github.com/zhangnew/isso_to_waline): A migration tool from isso db to waline json.
 
 ## Theme
 
@@ -44,6 +39,14 @@ List of themes that support Waline by default.
 
 - [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
 - [DoIt](https://github.com/HEIGE-PCloud/DoIt)
+
+## Tools
+
+- [waline-services](https://github.com/loclink/waline-service): A easy way to deploy Waline to your server.
+- [waline-cli](https://github.com/slgluo/waline-cli): CLI for Waline server deployment.
+- [waline-async-mail](https://github.com/soxft/waline-async-mail): async mail notification service for Waline.
+- [LWAR](https://github.com/kawashiro-ryofu/LWAR): A robot which can audit comment by history commentors for Waline.
+- [isso_to_waline](https://github.com/zhangnew/isso_to_waline): A migration tool from isso db to waline json.
 
 ## Tutorial
 
