@@ -39,6 +39,7 @@ List of themes that support Waline by default.
 
 - [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
 - [DoIt](https://github.com/HEIGE-PCloud/DoIt)
+- [hugo-theme-next](https://github.com/hugo-next/hugo-theme-next)
 
 ## Tools
 
